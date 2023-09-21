@@ -1,0 +1,2 @@
+pdf text extracter: 1.pdfpy2
+                    2.pdfplumber
